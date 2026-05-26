@@ -1,5 +1,7 @@
 # Crab Age Prediction
 
+![Crab Age Prediction banner](banner/crab.JPG)
+
 FastAPI service for predicting crab age in months from crab weight measurements and sex. The model is loaded from `model/model.pkl` and exposed through a simple `/predict` endpoint.
 
 ## Overview
